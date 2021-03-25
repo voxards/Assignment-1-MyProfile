@@ -28,7 +28,7 @@ html {
 }
 
 header {
-	text-align: center;
+		text-align: center;
 }
 .content{
 	background: white;
@@ -45,6 +45,10 @@ header {
 
 .profile {
 	text-align:center;
+}
+
+.profileimage {
+	float: right;
 }
 
 #extrabackgroundidea {
