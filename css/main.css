@@ -7,7 +7,7 @@ h1 {
 		font-weight:normal;
 	}
 
-	hr.line-orange-center {
+	hr.line-pink-center {
 	            border: 0;
 	            height: 3px;
 	            background-color: #ff6699;
@@ -17,8 +17,16 @@ h1 {
 							        border: 0;
 							        height: 5px;
 							        background-color: #ff6699;
-							        width: 70px;
+							        width: 120px;
 							        margin-left: 0px;}
+
+											hr.small-line {
+												border: 0;
+								        height: 2px;
+								        background-color: #ff6699;
+								        width: 45px;
+								        margin-left: 0px;
+											}
 body {
 	font-family: "Source Sans Pro", Helvetica, sans-serif;
 	font-size: 16.5pt;
