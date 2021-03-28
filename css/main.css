@@ -3,7 +3,22 @@
 
 h1 {
 		text-align:center;
-}
+		color: white;
+		font-weight:normal;
+	}
+
+	hr.line-orange-center {
+	            border: 0;
+	            height: 3px;
+	            background-color: #ff6699;
+	            width: 166px;}
+
+							hr.line-pink-left {
+							        border: 0;
+							        height: 5px;
+							        background-color: #ff6699;
+							        width: 70px;
+							        margin-left: 0px;}
 body {
 	font-family: "Source Sans Pro", Helvetica, sans-serif;
 	font-size: 16.5pt;
@@ -16,6 +31,10 @@ body {
 	padding-bottom: 25px;
 	}
 
+h2 {
+	color: #ff6699;
+
+}
 b {
 	font-size:18pt;
 }
@@ -59,14 +78,3 @@ header {
   color: white;
   text-align: center;
 }
-
-#extrabackgroundidea {
-	background-color: #ffffff;
-	color: #636363;
-	border-radius: 0.25em;
-	box-shadow: inset 0 0 0 1px #dddddd;
-	margin: -5em 0 5em -5em;
-	border-top-right-radius: 0.25%;
-	border-top-left-radius: 0.25%;
-	border-bottom-right-radius: 25%;
-	border-bottom-left-radius: 100%;
